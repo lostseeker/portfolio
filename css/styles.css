@@ -11,6 +11,7 @@ html {
 }
 .brand-heading{
   font-family: 'Ewert', cursive;
+  text-shadow: 3px 3px 4px #000;
 
 }
 h1,
