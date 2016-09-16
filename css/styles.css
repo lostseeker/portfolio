@@ -11,9 +11,10 @@ html {
 }
 .brand-heading{
   font-family: 'Ewert', cursive;
-  text-shadow: 3px 3px 4px #000;
+  text-shadow: 6px 6px 4px #000;
 
 }
+
 h1,
 h2,
 h3,
@@ -39,7 +40,7 @@ p {
   }
 }
 a {
-  color: #42DCA3;
+  color: #fff;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -249,16 +250,16 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #42DCA3;
-  color: #42DCA3;
+  border: 1px solid #fff;
+  color: #fff;
   background-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #42DCA3;
+  border: 1px solid #fff;
   outline: none;
   color: black;
-  background-color: #42DCA3;
+  background-color: #fff;
 }
 ul.banner-social-buttons {
   margin-top: 0;
